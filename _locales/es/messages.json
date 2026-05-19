@@ -1,6 +1,18 @@
 {
+  "extensionName": {
+    "message": "Pestaña de Google Messages",
+    "description": "Name of the extension."
+  },
   "extensionDescription": {
-    "message": "Añade un botón que abre Google Messages en una pestaña nueva.",
+    "message": "Añade un botón para abrir Google Messages en una nueva pestaña.",
     "description": "Description of the extension."
+  },
+  "toolbarButtonTitle": {
+    "message": "Google Messages",
+    "description": "Hover title for the Spaces Toolbar button."
+  },
+  "contextMenuTitle": {
+    "message": "Enviar a Google Messages: \"%s\"",
+    "description": "Context menu text. %s is automatically replaced by the user's selected text."
   }
 }

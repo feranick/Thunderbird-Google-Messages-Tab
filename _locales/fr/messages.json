@@ -1,10 +1,10 @@
 {
   "extensionName": {
-    "message": "Scheda Google Messages",
+    "message": "Onglet Google Messages",
     "description": "Name of the extension."
   },
   "extensionDescription": {
-    "message": "Aggiunge un bottone per aprire Google Messages in una nuova tab.",
+    "message": "Ajoute un bouton pour ouvrir Google Messages dans un nouvel onglet.",
     "description": "Description of the extension."
   },
   "toolbarButtonTitle": {
@@ -12,7 +12,7 @@
     "description": "Hover title for the Spaces Toolbar button."
   },
   "contextMenuTitle": {
-    "message": "Invia a Google Messages: \"%s\"",
+    "message": "Envoyer à Google Messages : \"%s\"",
     "description": "Context menu text. %s is automatically replaced by the user's selected text."
   }
 }

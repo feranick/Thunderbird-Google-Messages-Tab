@@ -1,5 +1,5 @@
 browser.spacesToolbar.addButton('GoogleMessages', {
-    title: "Google Messages",
+    title: browser.i18n.getMessage("toolbarButtonTitle"),
     defaultIcons: "skin/google_messages_icon.svg",
     url: "https://messages.google.com/web/"
 });
@@ -21,7 +21,7 @@ browser.webRequest.onBeforeSendHeaders.addListener(
 // Create the context menu item
 browser.menus.create({
   id: "send-to-google-messages",
-  title: "Send to Google Messages: \"%s\"",
+  title: browser.i18n.getMessage("contextMenuTitle"),
   contexts: ["selection"]
 });
 

@@ -1,6 +1,18 @@
 {
+  "extensionName": {
+    "message": "Google Messages-Tab",
+    "description": "Name of the extension."
+  },
   "extensionDescription": {
-    "message": "Fügt eine Schaltfläche zum Öffnen von Google Messages in einem neuen Tab hinzu.",
+    "message": "Fügt eine Schaltfläche hinzu, um Google Messages in einem neuen Tab zu öffnen.",
     "description": "Description of the extension."
+  },
+  "toolbarButtonTitle": {
+    "message": "Google Messages",
+    "description": "Hover title for the Spaces Toolbar button."
+  },
+  "contextMenuTitle": {
+    "message": "An Google Messages senden: \"%s\"",
+    "description": "Context menu text. %s is automatically replaced by the user's selected text."
   }
 }
