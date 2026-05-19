@@ -1,6 +1,6 @@
 # Google Messages Tab
 Unofficial Google Messages add-on for Thunderbird, it adds a button in Spaces that opens a Google Messages tab in Thunderbird, and an entry on a contextual menu where a selected text can be sent to a chat in Google Messages.
-The [home page](https://addons.mozilla.org/thunderbird/addon/thundergmessages/) of the extension contains some pictures and reviews.
+The [home page](https://addons.thunderbird.net/en-US/thunderbird/addon/google-messages-spaces-tab/) of the extension contains some pictures and reviews.
 
 #### Installing 
 A new Google Messages icon should appear in the Spaces Toolbar of Thunderbird. Click to open.
